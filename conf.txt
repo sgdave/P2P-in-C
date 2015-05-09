@@ -1,0 +1,5 @@
+AppType=P
+TCPPort=15015
+Name=testPeer
+Index_server Port=15016
+Index_server IP=localhost
